@@ -1,2 +1,3 @@
 # python-teamwork
-python labs teamwork repo
+
+python labs repo for teamwork
